@@ -1,5 +1,5 @@
 <h1 align="center">
-Projeto de um Portal de notícias desenvolvido durante as aulas de Grid.
+Projeto Portal de notícias desenvolvido durante as aulas de Grid.
 </h1>
 
 <p align="center">
